@@ -1,0 +1,165 @@
+/* Your styles here */
+body {
+  background-color: #e9edee;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+header {
+  background-color: #222f3f;
+}
+
+.logo {
+  max-width: 70px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.lista {
+  background-color: #36475b;
+}
+
+.li {
+  max-width: 100%;
+  display: inline;
+  padding: 4px;
+}
+
+.a1 {
+  color: #e9edee;
+  padding: 4px;
+  margin-top: 10px;
+  padding-bottom: 4px;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.giftcard {
+  max-width: 100%;
+  background-color: #f66405;
+  color: #e9edee;
+  font-size: 10px;
+  padding: 5px;
+  text-align: center;
+  margin: 15px;
+}
+
+.banner {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(/assets/images/bg-image.png);
+  height: 100px;
+  max-width: 100%;
+  background-size: contain;
+  background-position: center;
+  text-align: center;
+  color: #e9edee;
+  margin: 15px;
+}
+
+.guides {
+  padding-top: 35px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.gifter {
+  padding-top: 12px;
+  font-size: 11px;
+}
+
+.img {
+  max-width: 100%;
+}
+.contfine {
+  text-align: left;
+  font-size: 10px;
+  max-width: 100%;
+  background-color: white;
+  padding: 8px;
+  padding-bottom: 0px;
+  margin: 15px;
+  margin-bottom: 0px;
+  padding-left: 50px;
+}
+
+.contfine1 {
+  max-width: 100%;
+  background-color: white;
+  padding: 8px;
+  padding-bottom: 0px;
+  text-align: center;
+  margin: 15px;
+  margin-top: 0px;
+}
+
+.finestre {
+  display: inline-block;
+  justify-content: space-evenly;
+  max-width: 20%;
+
+  height: 40%;
+  margin: 5px;
+
+  border-radius: 10%;
+  border: solid;
+  border-width: 0px;
+  border-color: transparent;
+  box-shadow: 5px 5px 2px gray;
+  box-shadow: rgb(255, 253, 253);
+}
+
+.fine {
+  max-width: 130px;
+  height: 180px;
+}
+
+.ban1 {
+  max-width: 100%;
+
+  display: inline block;
+  text-align: center;
+}
+
+.p1 {
+  text-align: center;
+  font-size: 10px;
+}
+
+.img2 {
+  max-width: 100%;
+
+  margin-top: 15px;
+}
+
+.p2 {
+  text-align: center;
+  font-size: 10px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.linka {
+  color: #e9edee;
+  font-size: 10px;
+}
+
+.h5 {
+  padding: 2px;
+  background-color: #36475b;
+}
+
+.ulti {
+  background-color: #222f3f;
+}
+
+.imgp {
+  max-width: 70px;
+  padding: 30px;
+}
+
+.shop {
+  color: #73a9b3;
+}
